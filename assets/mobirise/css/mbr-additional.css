@@ -843,12 +843,12 @@ a {
 
 
 
-
-@media (max-width: 767px) {
+@media screen and (max-width: 767px) {
   .cid-tJS6tZXiPa .nav-dropdown {
     padding-bottom: 0.5rem;
   }
 }
+
 .cid-tJS6tZXiPa .nav-dropdown .link.dropdown-toggle::after {
   margin-left: 0.5rem;
   margin-top: 0.2rem;
